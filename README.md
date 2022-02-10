@@ -2,6 +2,7 @@
 Basics of cpp [ Learning Variables, Datatypes, character set and I/O operations in C++]
 
 **Simple syntax for writing a programm in c++**
+
 #include <iostream>
 using namespace std;
 int main()
